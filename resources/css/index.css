@@ -1,19 +1,13 @@
-* {
-    font-family: Helvetica, Arial, sans-serif;
-  }
-   
-   
-  h1 {
-    color: SeaGreen;
-  }
-   
-   
-  p, 
-  li {
-    font-size: 18px;
-  }
-   
-   
-  a {
-    text-decoration: none;
+body {
+  color: #000;
+  font-family: 'Fira Sans', sans-serif;
+  font-size: 14pt;
+  font-weight: 300;
+  line-height: 1.5em;
+  padding: 1em;
+  max-width: 44em;
+  margin: auto;
+  /* background: #eff4e2; */
+  background: #ffffff;
+  text-rendering: optimizeLegibility;
   }
