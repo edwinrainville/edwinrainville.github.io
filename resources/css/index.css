@@ -1,3 +1,5 @@
+/* Universal Syles */
+
 body {
   color: #000;
   font-family: 'Fira Sans', sans-serif;
@@ -11,3 +13,24 @@ body {
   background: #ffffff;
   text-rendering: optimizeLegibility;
   }
+
+  /* Header */
+
+.menu {
+  background-color: #ffffff;
+  position: sticky;
+  top: 0em;
+  left: 0;
+  width: 100%;
+  line-height: 0.5;
+  z-index: 999;
+  font-size: 1.1em;
+  margin: auto;
+  border-top: 1.0px solid #bbb;
+  border-bottom: 1.0px solid #bbb;
+}
+
+.menu li {
+  display: inline-block;
+}
+
